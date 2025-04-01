@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🌟 Bienvenue sur mon profil GitHub ! 🌟
 
-<!--
-**Poyziol/Poyziol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](images/banner.jpeg)  
 
-Here are some ideas to get you started:
+## 👋 Qui suis-je ?  
+Passionné par la programmation, je m'intéresse à divers langages et technologies. Voici un aperçu de ce que je connais :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Langages de programmation :
+- Java ☕
+- C / C++ 🔵
+- C# 🎮
+- Python 🐍
+- HTML / CSS / JavaScript 🌐
+- NodeJS ⚡
+- React ⚛️  
+
+### 🗄️ Bases de données :
+- MySQL 🐬
+- PostgreSQL 🐘
+- Microsoft Access 📊  
+
+### 🧮 Outils et logiciels mathématiques :
+- Gnuplot 📈
+- Maxima ∑
+- LaTeX ✍️  
+
+### 🔧 Environnements de développement :
+- VS Code 🖥️ (principalement)
+- Visual Studio 🎨 (un peu)  
+
+## 📫 Me contacter :
+Tu peux me retrouver ici :  
+- 💼 [LinkedIn](#)  
+- 📧 [Email](#)  
+
+Merci de passer par ici, et bon code ! 🚀
+
