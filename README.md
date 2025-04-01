@@ -1,37 +1,36 @@
-# 🌟 Bienvenue sur mon profil GitHub ! 🌟
+# 🌟 Welcome to my GitHub Profile! 🌟
 
 ![Banner](images/banner.jpeg)  
 
-## 👋 Qui suis-je ?  
-Passionné par la programmation, je m'intéresse à divers langages et technologies. Voici un aperçu de ce que je connais :
+## 👋 Who am I?  
+Passionate about programming, I explore various languages and technologies. Here's an overview of what I know:
 
-### 💻 Langages de programmation :
-- Java ☕
-- C / C++ 🔵
-- C# 🎮
-- Python 🐍
-- HTML / CSS / JavaScript 🌐
-- NodeJS ⚡
+### 💻 Programming Languages:
+- Java ☕  
+- C / C++ 🔵  
+- C# 🎮  
+- Python 🐍  
+- HTML / CSS / JavaScript 🌐  
+- NodeJS ⚡  
 - React ⚛️  
 
-### 🗄️ Bases de données :
-- MySQL 🐬
-- PostgreSQL 🐘
+### 🗄️ Databases:
+- MySQL 🐬  
+- PostgreSQL 🐘  
 - Microsoft Access 📊  
 
-### 🧮 Outils et logiciels mathématiques :
-- Gnuplot 📈
-- Maxima ∑
+### 🧮 Mathematical Tools & Software:
+- Gnuplot 📈  
+- Maxima ∑  
 - LaTeX ✍️  
 
-### 🔧 Environnements de développement :
-- VS Code 🖥️ (principalement)
-- Visual Studio 🎨 (un peu)  
+### 🔧 Development Environments:
+- VS Code 🖥️ (mainly)  
+- Visual Studio 🎨 (a little)  
 
-## 📫 Me contacter :
-Tu peux me retrouver ici :  
+## 📫 Contact Me:
+You can find me here:  
 - 💼 [LinkedIn](#)  
 - 📧 [Email](#)  
 
-Merci de passer par ici, et bon code ! 🚀
-
+Thanks for stopping by, and happy coding! 🚀  
